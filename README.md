@@ -1,4 +1,8 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/twitch-codex-simulator/deploy-status)](https://twitch-codex-simulator.netlify.app)
+**Live Simulation:** [twitch-codex-simulator.netlify.app](https://twitch-codex-simulator.netlify.app)
+
+# twitch-codex-agent
+
+## Twitch & Codex Integration
 
 # twitch-codex-agent
 
