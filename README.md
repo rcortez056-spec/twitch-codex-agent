@@ -1,4 +1,5 @@
 # twitch-codex-agent
+[![Netlify Status](https://api.netlify.com/api/v1/badges/your-site-id/deploy-status)](https://twitch-codex-simulator.netlify.app)
 ## Twitch & Codex Integration
 - **Platform Integration:** Interactive Twitch experience built to connect via stream overlay, Twitch Chat, and EventSub API.
 - **AI Development Environment:** System architecture and agent logic engineered using **OpenAI Codex**.
